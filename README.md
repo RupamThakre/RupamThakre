@@ -40,7 +40,7 @@
 |--------|-------------|
 | [**core-java-concepts**](https://github.com/RupamThakre/Core_Java_Concepts) | Java basics and OOP principles with practical code examples |
 | [**JavaScript-concepts**](https://github.com/RupamThakre/Concepts_JavaScriptES6) | JavaScript concepts |
-| [**TypeScript-concepts**](https://github.com/RupamThakre/Concepts_TypeScript) | JavaScript concepts |
+| [**TypeScript-concepts**](https://github.com/RupamThakre/Concepts_TypeScript) | TypeScript concepts |
 | [**angular-v19-concepts**](https://github.com/RupamThakre/Angular_v19) | Angular 19 features including standalone components, signals, and SSR |
 
 ---
