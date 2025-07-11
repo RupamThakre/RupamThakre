@@ -9,7 +9,7 @@
 🔹 Specialized in designing and developing **RESTful Microservices** architecture with real-time data pipelines.  
 🔹 Strong background in integrating with messaging systems like **Apache Kafka** and **IBM MQ**, and creating event-driven architectures with **Apache Camel**.  
 🔹 Committed to clean code, performance optimization, and test-driven development.  
-🔹 Eager to learn and contribute to open-source projects and developer communities.
+🔹 Designed RESTful microservices and integrated Apache Camel for reliable data routing; implemented Kafka and MQ forevent-driven, decoupled architectures
 
 ---
 
