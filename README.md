@@ -6,23 +6,35 @@
 ### 💼 About Me
 
 🔹 I am a dedicated Full Stack Developer with 4 years of professional experience building scalable, high-performance applications using **Java** and **Spring Boot** on the backend and **Angular** on the frontend. I specialize in designing and implementing RESTful APIs and microservices that power modern web applications.                         
-🔹 With a strong foundation in both backend and frontend technologies, I create seamless user experiences while ensuring robust and maintainable server-side logic. My expertise includes integrating message brokers, handling asynchronous event-driven architectures, and optimizing database interactions. Experienced in building event-driven, decoupled architectures by integrating Apache Camel for reliable data routing, and implementing Kafka and MQ for asynchronous messaging.                                    
-🔹Experienced in Agile methodologies, I actively contribute to sprint planning, code reviews, and collaborative problem-solving to consistently deliver quality features ahead of schedule. I am passionate about clean code, automated testing (JUnit), and continuous improvement to maintain high standards of software quality.     
+🔹 With a strong foundation in both backend and frontend technologies, I create seamless user experiences while ensuring robust and maintainable server-side logic. My expertise includes integrating message brokers, handling asynchronous event-driven architectures, and optimizing database interactions.                        
+🔹 Experienced in building event-driven, decoupled architectures by integrating Apache Camel for reliable data routing, and implementing Kafka and MQ for asynchronous messaging.                                    
+🔹 Experienced in Agile methodologies, I actively contribute to sprint planning, code reviews, and collaborative problem-solving to consistently deliver quality features ahead of schedule. I am passionate about clean code, automated testing (JUnit), and continuous improvement to maintain high standards of software quality.     
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Backend:
-- **Java 8/11/17**, **Spring Boot**, **Spring Cloud**, **SpringData JPA**, **Hibernate**,
-- **REST APIs**, **Microservices**
-- **Apache Kafka**, **IBM MQ**, **Apache Camel**
-- **JPA/Hibernate**, **MySQL**, **PostgreSQL**
-- **JUnit**, **Mockito**, **Testcontainers**
+
+- Java 8 / 11 / 17 • Spring Boot • Spring Cloud  
+- Spring Data JPA • Hibernate  
+- RESTful APIs • Microservices
+
+**Messaging & Integration**  
+- Apache Kafka • IBM MQ • Apache Camel
+
+**Database**  
+- MySQL • PostgreSQL  
+- JPA / Hibernate
+
+**Testing**  
+- JUnit • Mockito 
 
 #### Frontend:
-- **Angular (v2+ to 19)**  
-- **RxJS**, **NgRx**, **Tailwind CSS**, **Bootstrap**
+- Angular  
+- TypeScript • JavaScript  
+- HTML5 • CSS3 • SCSS  
+- RxJS • Angular Material • Bootstrap
 
 #### DevOps & Tools:
 - **Docker**, **Kubernetes (basic)**  
