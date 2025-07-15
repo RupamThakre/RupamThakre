@@ -5,12 +5,9 @@
 
 ### 💼 About Me
 
-🔹 Passionate Full Stack Developer with **4+ years** of experience building scalable, enterprise-grade applications using **Java, Spring Boot**, and **Angular**.  
-🔹 Specialized in Java and Spring Boot for designing and implementing scalable microservices, RESTful APIs, and efficient database integrations.    
-🔹 Skilled in frontend development using Angular, delivering seamless user experiences alongside robust backend services.     
-🔹 Experienced in building event-driven, decoupled architectures by integrating Apache Camel for reliable data routing, and implementing Kafka and MQ for asynchronous messaging.  
-🔹 Active contributor in Agile teams, leading offshore development, conducting code reviews, and participating in sprint planning to deliver high-quality features ahead of deadlines.             
-🔹 Committed to code quality through comprehensive unit and integration testing using JUnit, ensuring high performance and improved code coverage. 
+🔹 I am a dedicated Full Stack Developer with 4 years of professional experience building scalable, high-performance applications using **Java** and **Spring Boot** on the backend and **Angular** on the frontend. I specialize in designing and implementing RESTful APIs and microservices that power modern web applications.                         
+🔹 With a strong foundation in both backend and frontend technologies, I create seamless user experiences while ensuring robust and maintainable server-side logic. My expertise includes integrating message brokers, handling asynchronous event-driven architectures, and optimizing database interactions. Experienced in building event-driven, decoupled architectures by integrating Apache Camel for reliable data routing, and implementing Kafka and MQ for asynchronous messaging.                                    
+🔹Experienced in Agile methodologies, I actively contribute to sprint planning, code reviews, and collaborative problem-solving to consistently deliver quality features ahead of schedule. I am passionate about clean code, automated testing (JUnit), and continuous improvement to maintain high standards of software quality.     
 
 ---
 
