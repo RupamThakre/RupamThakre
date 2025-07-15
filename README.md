@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupam Thakre</h1>
+<h1 align="center">Hi 👋 I'm Rupam Thakre</h1>
 <h3 align="center">Java Fullstack Developer | Java • Spring Boot • Angular • TypeScript • Kafka </h3>
 
 ---
