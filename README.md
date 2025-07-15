@@ -6,11 +6,11 @@
 ### 💼 About Me
 
 🔹 Passionate Full Stack Developer with **4+ years** of experience building scalable, enterprise-grade applications using **Java, Spring Boot**, and **Angular**.  
-🔹 Specialized in Java and Spring Boot for designing and implementing scalable microservices, RESTful APIs, and efficient database integrations.
-🔹Skilled in frontend development using Angular, delivering seamless user experiences alongside robust backend services.
-🔹Experienced in building event-driven, decoupled architectures by integrating Apache Camel for reliable data routing, and implementing Kafka and MQ for asynchronous messaging.
-🔹Active contributor in Agile teams, leading offshore development, conducting code reviews, and participating in sprint planning to deliver high-quality features ahead of deadlines.
-🔹Committed to code quality through comprehensive unit and integration testing using JUnit, ensuring high performance and improved code coverage.
+🔹 Specialized in Java and Spring Boot for designing and implementing scalable microservices, RESTful APIs, and efficient database integrations.    
+🔹 Skilled in frontend development using Angular, delivering seamless user experiences alongside robust backend services.     
+🔹 Experienced in building event-driven, decoupled architectures by integrating Apache Camel for reliable data routing, and implementing Kafka and MQ for asynchronous messaging.  
+🔹 Active contributor in Agile teams, leading offshore development, conducting code reviews, and participating in sprint planning to deliver high-quality features ahead of deadlines.             
+🔹 Committed to code quality through comprehensive unit and integration testing using JUnit, ensuring high performance and improved code coverage. 
 
 ---
 
