@@ -43,6 +43,8 @@
 | [**TypeScript-concepts**](https://github.com/RupamThakre/Concepts_TypeScript) | TypeScript concepts |
 | [**angular-v19-concepts**](https://github.com/RupamThakre/Angular_v19) | Angular 19 features including standalone components, signals, and SSR |
 | [**Design-Patterns-java**](https://github.com/RupamThakre/Design_Pattern_Java) | Design Patterns in Java |
+| [**Java 8 Concepts**](https://github.com/RupamThakre/Java_JDK8_Concepts) | Java 8 Features Lambda, Streams |
+| [**Java 11 Concepts**](https://github.com/RupamThakre/Java_JDK11_Concepts) | Java 11 Concepts |
 
 ---
 
